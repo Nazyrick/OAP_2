@@ -1,0 +1,4 @@
+﻿  Laba number 1.cpp
+C:\Users\ulase\Downloads\Github\OAP 2\Laba number 1\Laba number 1\Laba number 1.cpp(5,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ulase\Downloads\Github\OAP 2\Laba number 1\Laba number 1\Laba number 1.cpp(8,9): warning C4101:  fSizeOfA: неиспользованная локальная переменная
+  Laba number 1.vcxproj -> C:\Users\ulase\Downloads\Github\OAP 2\Laba number 1\Debug\Laba number 1.exe
